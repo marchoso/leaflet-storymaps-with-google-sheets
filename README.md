@@ -4,7 +4,7 @@ Personalice su mapa de historia del folleto con la plantilla vinculada de Google
 ![Demo Screenshot](media/screenshot.jpg)
 
 ## [Live Demo](http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html)
-- El mapa está alojado por GitHub y se puede encontrar en http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
+- El mapa está alojado por GitHub y se puede encontrar en https://marchoso.es/ejemplos/cabodegata2020/index.html
 - Plantilla de Hojas de cálculo de Google https://docs.google.com/spreadsheets/d/1pEC8Os-nok-s3fyvJKnh4sfL0HAOrS9uhhisb5M6fHg/edit#gid=0/
                          
 ## Crea tu propio
