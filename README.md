@@ -1,24 +1,23 @@
 # Leaflet Storymaps con Hojas de cálculo de Google
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
+Personalice su mapa de historia del folleto con la plantilla vinculada de Google Sheets y la narrativa de desplazamiento. Admite incrustaciones de imágenes, audio y video, y superposiciones de TletLayer / geojson de folleto.
 
 ![Demo Screenshot](media/screenshot.jpg)
 
 ## [Live Demo](http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html)
-- The map is hosted by GitHub and can be found at http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1pEC8Os-nok-s3fyvJKnh4sfL0HAOrS9uhhisb5M6fHg/edit#gid=0/
+- El mapa está alojado por GitHub y se puede encontrar en http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
+- Plantilla de Hojas de cálculo de Google https://docs.google.com/spreadsheets/d/1pEC8Os-nok-s3fyvJKnh4sfL0HAOrS9uhhisb5M6fHg/edit#gid=0/
                          
-## Create Your Own
-- See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
+## Crea tu propio
+- Vea el tutorial paso a paso en * Visualización de datos para todos * https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
 
 ## Creditos
-Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
+Desarrollado por [Ilya Ilyankou](https://github.com/ilyankou) y [Jack Dougherty](https://github.com/jackdougherty) con el apoyo de Trinity College, CT.
 
-Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html. Uses a [Google Sheets](https://www.google.com/sheets/about/) template.
+Inspirado en el código de Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, ver http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html. Utiliza un [Google Sheets](https://www.google.com/sheets/about/) modelo.
 
 ## Construido utilizando estas bibliotecas
 
-| Library | Version | License | Notes |
+| Librerías | Version | Licencia | Notas |
 |--       |--       |--       |--
 | [Leaflet](https://leafletjs.com)| 1.4.0 | BSD-2-Clause | https://leafletjs.com
 | [jQuery](https://code.jquery.com) | 3.3.1| MIT | https://code.jquery.com
@@ -31,5 +30,5 @@ Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta
 | [Leaflet.ExtraMarkers](https://github.com/coryasilva/Leaflet.ExtraMarkers) | ? | MIT | https://github.com/coryasilva/Leaflet.ExtraMarkers
 | [FontAwesome](https://fontawesome.com) | 5.8.1 | Font Awesome Free License | https://fontawesome.com |
 
-## License
+## Licencia
 MIT
