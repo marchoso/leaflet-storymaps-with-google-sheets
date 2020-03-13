@@ -1,4 +1,4 @@
-# Leaflet Storymaps with Google Sheets
+# Leaflet Storymaps con Hojas de cálculo de Google
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
@@ -11,12 +11,12 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 ## Create Your Own
 - See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
 
-## Credits
+## Creditos
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
 
 Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html. Uses a [Google Sheets](https://www.google.com/sheets/about/) template.
 
-## Built Using These Libraries
+## Construido utilizando estas bibliotecas
 
 | Library | Version | License | Notes |
 |--       |--       |--       |--
